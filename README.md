@@ -1,6 +1,6 @@
 # house-price-prediction 
-here the project house price prediction.In this project the house owner would know about the price of their house in future . 
-in the problem i used linear reggretion algorithm for build the to predict house price in future.
+here i build a project house price prediction.In this project the house owner want know about the price of their house in future . 
+in the problem i used linear reggretion algorithm for build a modol that madol is capable to predict house price in future.
 
 project Description
 
